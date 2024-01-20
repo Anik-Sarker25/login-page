@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: 0;
+}
+body {
+    background: linear-gradient(180deg, rgb(16, 29, 66), rgb(18, 62, 166));
+}
+.bg-color {
+    background-color: #0C1320;
+    border-radius: 10px;
+}
+button:hover {
+    background-color: #11317E!important;
+    color: white!important;
+}
